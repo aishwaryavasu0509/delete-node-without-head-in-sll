@@ -1,0 +1,1 @@
+# delete-node-without-head-in-sll
